@@ -18,21 +18,21 @@ Biotechnology graduate passionate about Bioinformatics, Data Analysis, and Machi
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fathallah808&show_icons=true&theme=transparent&hide_border=true" height="600" />
-  <img src="https://streak-stats.demolab.com?user=Fathallah808&theme=transparent&hide_border=true&background=00000000" alt="GitHub Contribution Streak" height="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fathallah808&show_icons=true&theme=transparent&hide_border=true" height="500" />
+  <img src="https://streak-stats.demolab.com?user=Fathallah808&theme=transparent&hide_border=true&background=00000000" alt="GitHub Contribution Streak" height="500" />
 </p>
 
 ## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/zeyadfathallah808/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="65" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:zeyadkhaled8008@gmail.com">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="65" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ZeyadFathallah">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="65" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="60" />
   </a>
 </p>
