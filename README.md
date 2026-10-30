@@ -18,10 +18,11 @@ Biotechnology graduate passionate about Bioinformatics, Data Analysis, and Machi
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fathallah808&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+<div align="center">
+ 
   <img src="https://streak-stats.demolab.com?user=Fathallah808&theme=transparent&hide_border=true&background=00000000" width="48%" />
-</p>
+
+</div>
 
 ## Connect with Me
 <div align="center">
