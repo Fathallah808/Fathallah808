@@ -17,7 +17,7 @@
 ## Github Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fathallah808&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fathallah808&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathallah808&layout=compact&theme=transparent&hide_border=true&langs_count=8" width="38%" />
 </div>
 
